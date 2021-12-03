@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\WPF\\Caculator\\Caculator\\Caculator\\Caculator.csproj": {}
+    "D:\\WPF_Dell\\WPF_LearnToUdemy\\Caculator\\Caculator\\Caculator.csproj": {}
   },
   "projects": {
-    "F:\\WPF\\Caculator\\Caculator\\Caculator\\Caculator.csproj": {
+    "D:\\WPF_Dell\\WPF_LearnToUdemy\\Caculator\\Caculator\\Caculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\WPF\\Caculator\\Caculator\\Caculator\\Caculator.csproj",
+        "projectUniqueName": "D:\\WPF_Dell\\WPF_LearnToUdemy\\Caculator\\Caculator\\Caculator.csproj",
         "projectName": "Caculator",
-        "projectPath": "F:\\WPF\\Caculator\\Caculator\\Caculator\\Caculator.csproj",
-        "packagesPath": "C:\\Users\\BigBoss\\.nuget\\packages\\",
-        "outputPath": "F:\\WPF\\Caculator\\Caculator\\Caculator\\obj\\",
+        "projectPath": "D:\\WPF_Dell\\WPF_LearnToUdemy\\Caculator\\Caculator\\Caculator.csproj",
+        "packagesPath": "C:\\Users\\Giang\\.nuget\\packages\\",
+        "outputPath": "D:\\WPF_Dell\\WPF_LearnToUdemy\\Caculator\\Caculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BigBoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Giang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
