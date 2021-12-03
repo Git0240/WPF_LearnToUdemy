@@ -92,6 +92,7 @@
                 FontSize="20"
                 Margin="10"/>
         <Button x:Name="fiveBtn"
+                Click="NumberBtn_Click"
                 Content="5"
                 Grid.Column="1"
                 Grid.Row="3"
