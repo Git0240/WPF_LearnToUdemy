@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\WPF\DesktopContactsApp\DesktopContactsApp\obj\Debug\net6.0-windows\
+D:\WPF_Dell\WPF_LearnToUdemy\WPF_LearnToUdemy\DesktopContactsApp\obj\Debug\net6.0-windows\
 DesktopContactsApp
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-F:\WPF\DesktopContactsApp\DesktopContactsApp\App.xaml
-3-1961996713
+D:\WPF_Dell\WPF_LearnToUdemy\WPF_LearnToUdemy\DesktopContactsApp\App.xaml
+4-993155439
 
-6272322217
-199-2072379434
-ContactDetailsWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
+7998604536
+199-1060784302
+ContactDetailsWindow.xaml;Controls\ContactControl.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 False
 

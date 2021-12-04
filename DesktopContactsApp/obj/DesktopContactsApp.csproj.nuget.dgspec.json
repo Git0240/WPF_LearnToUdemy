@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\WPF\\DesktopContactsApp\\DesktopContactsApp\\DesktopContactsApp.csproj": {}
+    "D:\\WPF_Dell\\WPF_LearnToUdemy\\WPF_LearnToUdemy\\DesktopContactsApp\\DesktopContactsApp.csproj": {}
   },
   "projects": {
-    "F:\\WPF\\DesktopContactsApp\\DesktopContactsApp\\DesktopContactsApp.csproj": {
+    "D:\\WPF_Dell\\WPF_LearnToUdemy\\WPF_LearnToUdemy\\DesktopContactsApp\\DesktopContactsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\WPF\\DesktopContactsApp\\DesktopContactsApp\\DesktopContactsApp.csproj",
+        "projectUniqueName": "D:\\WPF_Dell\\WPF_LearnToUdemy\\WPF_LearnToUdemy\\DesktopContactsApp\\DesktopContactsApp.csproj",
         "projectName": "DesktopContactsApp",
-        "projectPath": "F:\\WPF\\DesktopContactsApp\\DesktopContactsApp\\DesktopContactsApp.csproj",
-        "packagesPath": "C:\\Users\\BigBoss\\.nuget\\packages\\",
-        "outputPath": "F:\\WPF\\DesktopContactsApp\\DesktopContactsApp\\obj\\",
+        "projectPath": "D:\\WPF_Dell\\WPF_LearnToUdemy\\WPF_LearnToUdemy\\DesktopContactsApp\\DesktopContactsApp.csproj",
+        "packagesPath": "C:\\Users\\Giang\\.nuget\\packages\\",
+        "outputPath": "D:\\WPF_Dell\\WPF_LearnToUdemy\\WPF_LearnToUdemy\\DesktopContactsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BigBoss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Giang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

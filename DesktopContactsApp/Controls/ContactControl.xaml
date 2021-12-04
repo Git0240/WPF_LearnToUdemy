@@ -8,11 +8,11 @@
              d:DesignHeight="100" d:DesignWidth="300">
     <Grid Background="#AAE5E5E5">
         <StackPanel Margin="5">
-            <TextBlock Text="Name Lastname" FontSize="20"
+            <TextBlock x:Name="nameTextBlock" Text="Name Lastname" FontSize="20"
                                    FontWeight="Bold"/>
-            <TextBlock Text="example@domain.com" FontSize="15"
+            <TextBlock x:Name="emailTextBlock" Text="example@domain.com" FontSize="15"
                                    Foreground="DodgerBlue"/>
-            <TextBlock Text="(123) 456 7890" FontSize="15"
+            <TextBlock x:Name="phoneTextBlock" Text="(123) 456 7890" FontSize="15"
                                    FontStyle="Italic"/>
         </StackPanel>
     </Grid>
